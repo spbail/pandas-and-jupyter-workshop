@@ -1,5 +1,5 @@
 # Pandas & Jupyter Workshop V2
-# https://github.com/spbail/pandas-workshop-v2
+# github.com/spbail/pandas-workshop-v2
 
 A basic introduction to data analysis using Pandas & Jupyter.
 
@@ -31,3 +31,12 @@ Binder is a web-based hub for Jupyter notebook. If your local setup does not wor
 
 ## Step 4: Download the data file
 Download the mock_treatment_starts_2016.csv file from this repo. **NOTE** The data is entirely made up and is in no way related to any real patient data.
+
+# About Sam
+
+Hi! I'm Sam! I am a Senior Data Insights Engineer/Data Scientist formerly at Flatiron Health, NYC, working with electronic medical record data from oncology clinics in the US. I draw from a large toolkit ranging from various SQL flavors to Python, Pandas, Jupyter Notebook and R to statistical methods, data science and data visualization (Tableau, Superset...), as well as clinical terminologies and software engineering and automation tools - whatever gets the job done.
+
+I completed a PhD in theoretical semantic web foundations at the School of Computer Science, The University of Manchester, UK. My thesis focused on exploring and exploiting the "justificatory structure" of OWL ontologies. While in the UK, I co-founded and lead "Manchester Girl Geeks", a volunteer-based community organization that has been running STEM workshops for girls and women in the area since 2009. 
+
+https://www.twitter.com/spbail
+https://www.linkedin.com/in/spbail/
