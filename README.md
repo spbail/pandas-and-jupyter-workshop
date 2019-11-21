@@ -1,5 +1,5 @@
 # Pandas & Jupyter Workshop V2
-# github.com/spbail/pandas-workshop-v2
+# [github.com/spbail/pandas-workshop-v2](http://github.com/spbail/pandas-workshop-v2)
 
 A basic introduction to data analysis using Pandas & Jupyter.
 
