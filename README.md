@@ -7,6 +7,7 @@ A basic introduction to data analysis using Pandas & Jupyter.
 Materials by Sam Bail [@spbail](http://twitter.com/spbail), based on a workshop by [Alda Pontes](https://www.linkedin.com/in/aldapontes/).
 
 **Pre-requirements for the workshop**
+
 We expect a working knowledge of Python in order to be able to follow along with the workshop. If you are an absolute beginner in Python and aren't familiar with Python syntax, this workshop might not be suited for you.
 
 # Binder link to run remote notebook
