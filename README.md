@@ -1,6 +1,6 @@
 # Pandas & Jupyter Workshop
 
-# [https://github.com/spbail/pandas-and-jupyter-workshop](https://github.com/spbail/pandas-and-jupyter-workshop)
+## [https://github.com/spbail/pandas-and-jupyter-workshop](https://github.com/spbail/pandas-and-jupyter-workshop)
 
 A basic introduction to data analysis using Pandas & Jupyter.
 
