@@ -1,14 +1,14 @@
-# Pandas & Jupyter Workshop
+# An introduction to data analysis with Pandas & Jupyter notebook
 
 ## [https://github.com/spbail/pandas-and-jupyter-workshop](https://github.com/spbail/pandas-and-jupyter-workshop)
 
-A basic introduction to data analysis using Pandas & Jupyter.
+This workshop is aimed at Python users with no prior knowledge of Pandas. In this workshop, we will explore a small dataset and introduce you to the basics of data analysis workflows using the Pandas library and Jupyter notebook. After the workshop, learners will know how to to load data from a CSV file, do some basic exploratory data analysis and data cleaning, generate simple statistics, and create some basic data visualizations.
 
 Materials by Sam Bail [@spbail](http://twitter.com/spbail), based on a workshop by [Alda Pontes](https://www.linkedin.com/in/aldapontes/).
 
 **Pre-requirements for the workshop**
 
-We expect a working knowledge of Python in order to be able to follow along with the workshop. If you are an absolute beginner in Python and aren't familiar with Python syntax, this workshop might not be suited for you.
+We expect a *working knowledge of Python* in order to be able to follow along with the workshop. If you are an absolute beginner in Python and aren't familiar with Python syntax, this workshop might not be suited for you.
 
 # OPTION 1: Binder link to run remote notebook
 Binder is a web-based hub for Jupyter notebook. If your local setup does not work or if you prefer not to install anything locally, you can use the link here to work in a notebook on Binder. **Please note** that Binder will delete your notebook instance after 12 hours. You can download the notebook to your local machine at the end to have your own copy!
