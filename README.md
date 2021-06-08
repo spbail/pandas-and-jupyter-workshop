@@ -12,7 +12,8 @@ We expect a working knowledge of Python in order to be able to follow along with
 
 # OPTION 1: Binder link to run remote notebook
 Binder is a web-based hub for Jupyter notebook. If your local setup does not work or if you prefer not to install anything locally, you can use the link here to work in a notebook on Binder. **Please note** that Binder will delete your notebook instance after 12 hours. You can download the notebook to your local machine at the end to have your own copy!
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spbail/pandas-workshop-v2/master)
+
+Click this icon to launch the notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spbail/pandas-workshop-v2/master)
 
 # OPTION 2: Setup to run the notebook locally
 
